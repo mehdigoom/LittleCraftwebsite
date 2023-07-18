@@ -2,6 +2,16 @@
     width: device-width
 }
 
+.player {
+    background: #12978c;
+    box-sizing: border-box;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1%;
+    color: #ecf0f1;
+    border-radius: 10%;
+}
+
 html {
     box-sizing: border-box;
     -ms-overflow-style: scrollbar
