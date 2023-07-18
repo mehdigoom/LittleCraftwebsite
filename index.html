@@ -17,7 +17,7 @@
 
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <title>Little poké : FREE SERVER MINECRAFT</title>
@@ -38,6 +38,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-grid.min.css">
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.js">
 
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
 
@@ -51,8 +52,8 @@
     <div class="topnav" id="myTopnav">
         <div class="max-width">
             <a href="#head">Home</a>
-            <a href="#about">About</a>
-            <a href="#gamemodes">Gamemodes</a>
+            <a href="#about">Le serveur</a>
+            <a href="#gamemodes">Nous rejoindre</a>
             <a href="#vote">Vote</a>
             <a href="#staff">Staff</a>
             <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
@@ -69,6 +70,22 @@
 
     <!-- About Section -->
     <section id="about">
+
+        <div class="player">
+            <p>joueurs connecter</p>
+            <p id="player">0</p>
+            <p id="playermax">/0</p>
+        </div>
+
+        <div class="connecter">
+            <p>Qui est en jeu ?</p>
+            <p id="playerC">0</p>
+
+        </div>
+        <br>
+        <br>
+        <br>
+
         <h1>A propos du serveur</h1>
         <p>Les points fort de notre comunauté !</p>
         <hr>
@@ -320,5 +337,6 @@
     </script>
 
 </body>
+<script src="/js/bootstrap/script.js"></script>
 
 </html>
