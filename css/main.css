@@ -165,7 +165,7 @@ a:hover {
 /* End Navbar */
 
 #head {
-    background-image: url("/fond.png");
+    background-image: url("../fond.png");
     margin: 0;
     padding: 222px 0px 222px 0px;
     text-align: center;
@@ -220,19 +220,19 @@ a:hover {
 }
 
 #banner {
-    background-image: url("/1dab957e152e702b0c7b550332690bca.jpg");
+    background-image: url("../1dab957e152e702b0c7b550332690bca.jpg");
     padding: 75px 0px 75px 0px;
     text-align: center;
 }
 
 #banner2 {
-    background-image: url("/c4cff219e5c127ca6d0eba784664c30c8a36ba78_hq.gif");
+    background-image: url("../c4cff219e5c127ca6d0eba784664c30c8a36ba78_hq.gif");
     padding: 75px 0px 75px 0px;
     text-align: center;
 }
 
 #banner3 {
-    background-image: url("/d2efed22785011.563185516078e.png");
+    background-image: url("../d2efed22785011.563185516078e.png");
     padding: 75px 0px 75px 0px;
     text-align: center;
 }
