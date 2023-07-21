@@ -223,18 +223,21 @@ a:hover {
     background-image: url("../1dab957e152e702b0c7b550332690bca.jpg");
     padding: 75px 0px 75px 0px;
     text-align: center;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
 #banner2 {
     background-image: url("../c4cff219e5c127ca6d0eba784664c30c8a36ba78_hq.gif");
     padding: 75px 0px 75px 0px;
     text-align: center;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
 #banner3 {
     background-image: url("../d2efed22785011.563185516078e.png");
     padding: 75px 0px 75px 0px;
     text-align: center;
+    text-shadow: rgb(0, 0, 0) 1px 0 5px;
 }
 
 #banner h1 {
@@ -392,11 +395,13 @@ a:hover {
     font-weight: 700;
     text-transform: uppercase;
     margin-top: 15px;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
 #vote h2 {
     margin-top: 5px;
     font-size: 20px;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
 #vote p {
